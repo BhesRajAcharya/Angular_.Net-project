@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|c:\\users\\asus\\desktop\\full_stack_project\\backend\\backend\\backend\\migrations\\20240314030319_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D03F-3E5B-44AE-B2A6-2BD00DDC1468}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20240314030319_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAqwEcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:08:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240314030319_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Migrations\\20240314030319_initial.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20240314030319_initial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Migrations\\20240314030319_initial.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20240314030319_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:03:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAywBoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:15:15.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T16:11:14.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullstackDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Data\\FullstackDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\FullstackDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Data\\FullstackDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\FullstackDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:07:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Models\\Employee.cs",
+              "RelativeToolTip": "Backend\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:01:01.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T15:55:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FULL_STACK_PROJECT\\Backend\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:53:16.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
